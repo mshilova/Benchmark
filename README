@@ -1,0 +1,11 @@
+This application measures how much time it takes to add elements to
+the front and back of a linked list and an array.
+Takes two command line arguments, first linked or array, which specifies 
+whether List12 is a singly list or array list, and the second back or front,
+specifying whether adding elements to the front or the back of the list.
+
+Displayed: number of elements added, mean time, standard deviation
+
+to run type:
+
+          java TimeList [array or linked] [front or back]
